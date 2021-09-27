@@ -1,5 +1,23 @@
 .view {
-  background: url("https://mdbootstrap.com/img/Photos/Others/img (50).jpg")no-repeat center center;
+  //background: url("https://mdbootstrap.com/img/Photos/Others/img (50).jpg")no-repeat center center;
+  background: url('../../assets/images/bg/rsbgh.png')no-repeat center center;
   background-size: cover;
   height: 100vh;
+}
+
+.font-change{
+  font-family: 'JackPirateAlt';
+  vertical-align: middle;
+  text-shadow: 5px 5px 4px black;
+}
+
+.font-change h2 {
+
+  font-size: 6.5em;
+  color: #0055db;
+}
+
+.font-change h5 {
+  font-size: 3em;
+
 }
